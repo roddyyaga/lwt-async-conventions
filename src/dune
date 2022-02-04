@@ -1,0 +1,4 @@
+(library
+ (public_name lwt_async_conventions)
+ (libraries base lwt)
+(preprocess (pps ppx_let)))
