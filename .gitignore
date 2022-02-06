@@ -2,4 +2,4 @@
 /_opam
 *.install
 .merlin
-*#.*
+.\#*
